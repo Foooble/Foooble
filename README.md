@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a passionate programmer since 2019, proficient in Java, with growing expertise in web development and Python. I like programming robots, website and minecraft stuff.
 
 *   🌍  I'm based in Germany
-*   ✉️  You can contact me at [fooble-dev@gmx.net](mailto:fooble-dev@gmx.net)
+*   ✉️  You can contact me at [Discord]([mailto:fooble-dev@gmx.net](https://discord.com/users/1100806556574044260))
 *   🧠  I'm learning NextJs
 
 ### Skills 
