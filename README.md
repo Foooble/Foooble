@@ -1,11 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fabi
 ============================================================================================================================
 
-I'm a passionate programmer since 2019, proficient in Java, with growing expertise in web development and Python. I like programming robots, website and minecraft stuff.
+I'm a passionate programmer since 2018, proficient in Java, with growing expertise in web development and Python. I like programming robots, website and minecraft stuff.
 
 *   🌍  I'm based in Germany
 *   ✉️  You can contact me at [Discord](https://discord.com/users/1100806556574044260)
 *   🧠  I'm learning NextJs
+*   🔨  I'm working on a new project
 
 ### Skills 
 <p align="left">
